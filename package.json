@@ -1,0 +1,28 @@
+{
+  "name": "distext",
+  "version": "1.0.0",
+  "description": "Distext client for Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Distext/distext-node.git"
+  },
+  "keywords": [
+    "sms",
+    "messaging",
+    "api",
+    "distext"
+  ],
+  "author": "Guillaume Smolders",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Distext/distext-node/issues"
+  },
+  "homepage": "https://github.com/Distext/distext-node#readme",
+  "dependencies": {
+    "request": "^2.74.0"
+  }
+}
